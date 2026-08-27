@@ -1,9 +1,9 @@
 Excel Sales Analysis Dashboard
 Project Overview
-An Excel-based sales analysis and dashboard project focused on analyzing sales, profit, order quantity, customer segments, regional performance, yearly trends, and order processing time.
+An Excel-based sales analysis and dashboard project focused on analysing sales, profit, order quantity, customer segments, regional performance, yearly trends, and order processing time.
 The workbook uses Pivot Tables, Pivot Charts, calculated columns, and an Executive Summary Dashboard to summarize the data and present business insights.
 Dataset
-The Sales Data sheet contains 8,400 sales records and 27 fields.
+The Sales_Data sheet contains 8,400 sales records and 27 fields.
 Key fields include:
 •	Order ID
 •	Order Date
