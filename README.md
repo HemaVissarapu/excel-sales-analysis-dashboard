@@ -13,7 +13,18 @@ An Excel-based sales analysis and dashboard project focused on analysing:
 * Order Processing Time
 
 The workbook uses **Pivot Tables, Pivot Charts, calculated columns, and an Executive Summary Dashboard** to summarize the data and present business insights.
+## Project Features
 
+- Analysed 8,400 sales records using Microsoft Excel
+- Created calculated columns for analysis
+- Used Pivot Tables to summarize business data
+- Created Pivot Charts for data visualization
+- Analysed regional and customer segment profitability
+- Analysed yearly sales trends
+- Compared weekday and weekend sales
+- Analysed order quantity by day of the week
+- Analyzed average Days to Pack by product sub-category
+- Created an Executive Summary Dashboard
 ## Dataset
 
 The `Sales_Data` sheet contains **8,400 sales records and 27 fields**.
