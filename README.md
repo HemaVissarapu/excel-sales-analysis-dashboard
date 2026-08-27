@@ -152,7 +152,16 @@ Pivot Charts were used to visualize the summarized data and support comparison a
 * Dashboard Development
 * Data Visualization
 * Business-Oriented Analysis
+## Skills & Technologies
 
+- Microsoft Excel
+- Data Cleaning
+- Excel Formulas & Calculated Columns
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+- Dashboard Development
+- Business Analysis
 ## Key Skills Demonstrated
 
 * Data Cleaning
