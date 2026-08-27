@@ -141,3 +141,6 @@ Pivot Charts were used to visualize the summarized data and support comparison a
 * Data Visualization
 * Dashboard Creation
 * Business Insight Generation
+## Dashboard Preview
+
+![Excel Sales Analysis Dashboard](screenshots/dashboard.png)
