@@ -65,7 +65,15 @@ Profit was compared across:
 * North
 * South
 * West
+## Key Business Insights
 
+- **East** region generated the highest profit at approximately **369K**.
+- **Corporate** customers generated the highest profit at approximately **600K**.
+- **2009** recorded the highest yearly sales at approximately **4.38M**.
+- **Weekday sales** were significantly higher than weekend sales.
+- **Tuesday** recorded the highest order quantity among the days of the week.
+- The overall average **Days to Pack** was approximately **2.03 days**.
+- **Phones** had the highest average Days to Pack among the analysed sub-categories.
 **Key Insight:**
 The **East region** recorded the highest profit at approximately **369,051**.
 
